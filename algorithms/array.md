@@ -1,13 +1,13 @@
 Arrays
 ==
 
-- In an arrays of arrays, e.g. given `[[], [1, 2, 3], [4, 5], [], [], [6, 7], [8], [9, 10], [], []]`, print: `1, 2, 3, 4, 5, 6, 7, 8, 9, 10`.
+- In an array of arrays, e.g. given `[[], [1, 2, 3], [4, 5], [], [], [6, 7], [8], [9, 10], [], []]`, print: `1, 2, 3, 4, 5, 6, 7, 8, 9, 10`.
   - Implement an iterator that supports `hasNext()`, `next()` and `remove()` methods.
 - Given a list of item prices, find all possible combinations of items that sum a particular value `K`.
 - Paginate an array with constraints, such as skipping certain items.
 - Implement a circular buffer using an array.
 - Given array of arrays, sort them in ascending order.
-- Given an array of integers, print out a histogram of using said array; include a base layer (all stars)
+- Given an array of integers, print out a histogram using the said array; include a base layer (all stars)
   - E.g. `[5, 4, 0, 3, 4, 1]`
 
 ```
